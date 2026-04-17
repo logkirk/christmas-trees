@@ -23,28 +23,38 @@ The design uses a simple LM555 timer circuit to increment an octal counter. Each
 ## Project Images
 
 ### Schematic
-
-<img src="images/schematic.webp" alt="Schematic" width="500px">
+<details>
+<summary>Click to expand</summary>
+<img src="images/schematic.webp" alt="Schematic">
+</details>
 
 ### Board Views
-
-<img src="images/boardview_all.webp" alt="Board view, all" width="500px">
-<img src="images/boardview_top.webp" alt="Board view, top" width="500px">
-<img src="images/boardview_bottom.webp" alt="Board view, bottom" width="500px">
+<details>
+<summary>Click to expand</summary>
+<img src="images/boardview_all.webp" alt="Board view, all">
+<img src="images/boardview_top.webp" alt="Board view, top">
+<img src="images/boardview_bottom.webp" alt="Board view, bottom">
+</details>
 
 ### Bare Board
 
 Bare board fresh from JLCPCB. They came back looking clean.
 
-<img src="images/bare_front.webp" alt="Bare board, front" width="500px">
-<img src="images/bare_back.webp" alt="Bare board, back" width="500px">
+<details>
+<summary>Click to expand</summary>
+<img src="images/bare_front.webp" alt="Bare board, front">
+<img src="images/bare_back.webp" alt="Bare board, back">
+</details>
 
 ### Modded Board
 
 Of course the first run had some bugs. I was able to get it working after a bit of troubleshooting and some board modifications.
 
-<img src="images/modded_front.webp" alt="Modded board, front" width="500px">
-<img src="images/modded_back.webp" alt="Modded board, back" width="500px">
+<details>
+<summary>Click to expand</summary>
+<img src="images/modded_front.webp" alt="Modded board, front">
+<img src="images/modded_back.webp" alt="Modded board, back">
+</details>
 
 ## Lessons Learned
 
